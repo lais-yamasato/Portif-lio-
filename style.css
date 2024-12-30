@@ -7,9 +7,8 @@
   --text-color: white;
   --bg-url: url(./assets/mobile-black.jpg);
   --stroke-color: rgba(255, 255, 255, 0.5);
-  --surface-color: rgba(255, 255, 255, 0.1);
+  --surface-color: rgba(255, 255, 255, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
-  --surface-color-active: rgba(0, 0, 0, 0.1);
   --highlight-color: rgba(225, 225, 225, 0.2);
   --switch-bg-url: url(./assets/MoonStars.svg);
 }
@@ -17,7 +16,7 @@
   --text-color: black;
   --bg-url: url(./assets/mobile-light.jpg);
   --stroke-color: rgba(0, 0, 0, 0.5);
-  --surface-color: rgba(255, 255, 255, 0.5);
+   --surface-color: rgba(0, 0, 0, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
   --highlight-color: rgba(0, 0, 0, 0.1);
   --switch-bg-url: url(./assets/Sun.svg);
@@ -36,7 +35,6 @@ body * {
   margin: 56px auto 0px;
   padding: 0 24px;
 }
-
 #profile {
   text-align: center;
   padding: 24px;
